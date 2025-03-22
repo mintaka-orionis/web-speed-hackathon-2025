@@ -1,0 +1,8 @@
+node_modules
+.git
+.gitignore
+.wireit
+*.md
+dist
+compose.yaml
+Dockerfile
